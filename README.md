@@ -10,6 +10,10 @@
 * Limits displayed rows for large files
 * Alternating row colors for readability
 
+## Demo
+
+<img src="assets/preview.gif"/>
+
 ## Installation
 
 Make sure you have Rust installed. Clone the repository and build the project:
