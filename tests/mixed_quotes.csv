@@ -1,0 +1,5 @@
+id,name,description
+1,'Alice',"Description with double quotes"
+2,"Bob",'Description with single quotes'
+3,'Charlie',"Mixed 'single' and \"double\""
+4,"Diana",'Another "mix" here'

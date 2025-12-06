@@ -1,0 +1,6 @@
+id,name,formula,comment
+1,Alice,=1+1,Normal
+2,Bob,=cmd|'/c calc',Dangerous formula
+3,Charlie,@SUM(A1:A10),Excel formula
+4,Diana,+2+2,Another formula
+5,Eve,-5*3,Negative formula

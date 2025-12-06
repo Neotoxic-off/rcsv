@@ -1,0 +1,3 @@
+id,name with spaces,age(years),city/country,email@address,salary$$$,#hashtag
+1,Alice,28,Paris/France,alice@test.com,50000,tag1
+2,Bob,34,London/UK,bob@test.com,60000,tag2

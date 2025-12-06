@@ -1,0 +1,6 @@
+id,first_name,last_name,email,phone,address,city,postal_code,country,company,job_title,salary,department,hire_date,manager
+1,John,Doe,john.doe@email.com,+33612345678,123 Rue de la Paix,Paris,75001,France,TechStart,Developer,55000,Engineering,2020-01-15,Alice
+2,Jane,Smith,jane.smith@email.com,+33687654321,456 Avenue des Champs,Lyon,69001,France,DataCorp,Analyst,48000,Data,2019-06-20,Bob
+3,Mike,Johnson,mike.j@email.com,+33698765432,789 Boulevard St-Michel,Marseille,13001,France,CloudInc,DevOps,62000,Operations,2021-03-10,Charlie
+4,Sarah,Williams,sarah.w@email.com,+33623456789,321 Rue Victor Hugo,Toulouse,31000,France,AI Solutions,ML Engineer,70000,Research,2018-11-05,Diana
+5,Tom,Brown,tom.brown@email.com,+33634567890,654 Avenue de la République,Nice,06000,France,WebDesigns,Designer,52000,Creative,2022-02-28,Eve

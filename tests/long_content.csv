@@ -1,0 +1,5 @@
+id,title,description,tags,status
+1,Implement Authentication System,"Need to implement a complete authentication system with JWT tokens, refresh tokens, password hashing using bcrypt, email verification, password reset functionality, and two-factor authentication support.",security|authentication|backend,In Progress
+2,Optimize Database Queries,"Several queries are running slowly in production. Need to add proper indexes, optimize N+1 queries, implement query caching, and consider database sharding for scalability.",performance|database|optimization,To Do
+3,Refactor Legacy Code,"The payment processing module was written 5 years ago and needs complete refactoring. Should use modern design patterns, add comprehensive tests, improve error handling, and update documentation.",refactoring|technical-debt|payments,Planning
+4,Mobile App Development,"Develop native mobile applications for iOS and Android with offline support, push notifications, biometric authentication, and seamless synchronization with the backend API.",mobile|ios|android|frontend,Not Started
