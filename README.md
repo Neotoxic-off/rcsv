@@ -1,6 +1,6 @@
-# CSV Viewer
+# RCSV
 
-A lightweight CSV viewer written in Rust, designed for clean modularity, customizable delimiters, and table-formatted output.
+✨ Lightweight CSV viewer in Rust with clean modular design, alignment preview, and customizable separators
 
 ## Features
 
@@ -32,6 +32,7 @@ Optional arguments:
 
 ```text
 -d, --delimiter <char>     Set a custom delimiter (default: ,)
+-r, --rows <ROWS>          Set number max of rows to render
 --no-header                Specify if CSV does not have a header row
 ```
 
@@ -52,7 +53,7 @@ cargo run -- ./data/example.csv -d ";"
 Display only the first 50 rows:
 
 ```bash
-cargo run -- ./data/example.csv -n 50
+cargo run -- ./data/example.csv -r 50
 ```
 
 Display a CSV file without a header:
@@ -61,13 +62,3 @@ Display a CSV file without a header:
 cargo run -- ./data/example.csv --no-header
 ```
 
-## Contributing
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-name`)
-3. Make your changes
-4. Submit a pull request
-
-## License
-
-This project is licensed under the MIT License.
