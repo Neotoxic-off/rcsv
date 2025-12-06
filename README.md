@@ -31,9 +31,11 @@ cargo run -- path/to/file.csv
 Optional arguments:
 
 ```text
--d, --delimiter <char>     Set a custom delimiter (default: ,)
--r, --rows <ROWS>          Set number max of rows to render
---no-header                Specify if CSV does not have a header row
+  -d, --delimiter <DELIMITER>  Set a custom delimiter [default: ,]
+  -r, --rows <ROWS>            Set number max of rows to render [default: 30]
+  -n, --no-header              Specify if CSV does not have a header row
+  -h, --help                   Print help
+  -V, --version                Print version
 ```
 
 ### Examples
