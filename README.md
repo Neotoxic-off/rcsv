@@ -1,4 +1,4 @@
-<img src="assets/logo.png" weight="25%" height="25%"/>
+# Rcsv
 
 ✨ Lightweight CSV viewer in Rust with clean modular design, alignment preview, and customizable separators
 
